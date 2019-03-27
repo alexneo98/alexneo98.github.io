@@ -1,0 +1,394 @@
+.one {
+  
+    background: #4D4D4C;
+  position:absolute;
+    width: 101%;
+ height:  600px;
+display:block;
+    top:450px;
+    overflow: hidden;
+     transform: translate(-0%);
+  object-position: 50% 50%;
+    z-index: 0;
+    margin-left: -10px;
+    margin-right:-10px;
+    margin-top:-10px;
+    
+    
+}
+.suck{
+     position: absolute;
+    background-image:url(https://imgur.com/4Cb2X34.png);
+    background-size:300px;
+    width: 300px;
+    height: 300px;
+   top:25%;
+   display: block;
+    left:40%;
+    z-index:1;
+       
+}
+
+.text h1{
+    font-family: "Roboto", Times, sans-serif;
+    position: relative;
+    left:30%;
+    font-size: 100px;
+    display: block;
+    margin-top:1px
+    
+}
+.one p{
+    font-family: "Roboto", Times, sans-serif;
+    color: aliceblue;
+    position: absolute;
+    left: 1%;
+    
+    font-size:30px;
+}
+
+.sec {
+  
+    background: white;
+  position:absolute;
+    width: 101%;
+ height:  600px;
+display:block;
+    top:1000px;
+    overflow: hidden;
+     transform: translate(-0%);
+  object-position: 50% 50%;
+    z-index: 0;
+    margin-left: -10px;
+    margin-right:-10px;
+    margin-top:-10px;
+    
+    
+}
+.sec p{
+     font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:30px;
+}
+
+.third {
+  
+    background: #4D4D4C;
+  position:absolute;
+    width: 101%;
+ height:  600px;
+display:block;
+    top:1800px;
+    overflow: hidden;
+     transform: translate(-0%);
+  object-position: 50% 50%;
+    z-index: 0;
+    margin-left: -10px;
+    margin-right:-10px;
+    margin-top:-10px;
+    
+    
+}
+
+.third p{
+    font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:30px;
+    color:white
+}
+
+.forth{
+    background: white;
+  position:absolute;
+    width: 101%;
+ height:  600px;
+display:block;
+    top:2400px;
+    overflow: hidden;
+     transform: translate(-0%);
+  object-position: 50% 50%;
+    z-index: 0;
+    margin-left: -10px;
+    margin-right:-10px;
+    margin-top:-10px;
+}
+.forth p{
+    font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:30px;
+    
+}
+.vimeo iframe{
+    position: absolute;
+    top:600px;
+    left: 150px;
+    
+}
+
+.midfi iframe{
+    position:absolute;
+    top:1900px;
+    left:13%;
+    z-index: 1;
+    border: 10px;
+}
+
+.need{
+    position: absolute;
+    background-image:url(https://imgur.com/7bI0eaX.png);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:1100px;
+   display: block;
+    left:15%;
+    z-index:1; 
+}
+    
+.eva{
+    position: absolute;
+    background-image:url(https://imgur.com/6J7WhAV.png);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:1100px;
+   display: block;
+    left:75%;
+    z-index:1;
+}
+.video{
+    position: absolute;
+    background-image:url(https://imgur.com/bcxZbMe.png);
+    background-size:200px;
+    width: 170px;
+    height: 140px;
+   top:1450px;
+   display: block;
+    left:13%;
+    z-index:1;
+}
+.low{
+    position: absolute;
+    background-image:url(https://imgur.com/8FAosZw.jpg);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:1451px;
+   display: block;
+    left:45%;
+    z-index:1;
+}
+.med{
+    
+    position: absolute;
+    background-image:url(https://imgur.com/MjIUf6k.png);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:1451px;
+   display: block;
+    left:75%;
+    z-index:1;
+
+}
+.high{
+    position: absolute;
+    background-image:url(https://imgur.com/39GSd6b.png);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:1100px;
+   display: block;
+    left:45%;
+    z-index:1;
+}
+.fifth{
+      background: #4D4D4C;
+  position:absolute;
+    width: 101%;
+ height:  600px;
+display:block;
+    top:2900px;
+    overflow: hidden;
+     transform: translate(-0%);
+  object-position: 50% 50%;
+    z-index: 0;
+    margin-left: -10px;
+    margin-right:-10px;
+    margin-top:-10px;
+    
+    
+}
+.fifth p{
+    font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:30px;
+    color:white;
+}
+
+.eva p{
+    font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:20px;
+    top:120px;
+    left:25px;
+}
+
+.video p{
+    font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:20px;
+    top:120px;
+    left:70px;
+}
+
+.need p{
+    font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:20px;
+    top:120px;
+    left:19px;
+}
+
+.high p{
+    font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:20px;
+    top:120px;
+    left:40px;
+}
+
+.low p{
+    font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:20px;
+    top:120px;
+    left:40px;
+}
+
+.med p{
+    font-family: "Roboto", Times, sans-serif;
+     position: absolute;
+    left: 1%;
+    font-size:20px;
+    top:120px;
+    left:43px;
+}
+a{
+     font-family: "Roboto", Times, sans-serif;
+    position: relative;
+    left: 35px;
+    top:160px;
+}
+
+
+.sebi{position: absolute;
+    background-image:url(https://alexneo98.github.io/sebi.jpg);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:3000px;
+   display: block;
+    border-radius:70px;
+    left:45%;
+    z-index:1;}
+.alex{ position: absolute;
+    background-image:url(https://alexneo98.github.io/alex.jpg);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:3000px;
+    border-radius:70px;
+   display: block;
+    left:13%;
+    z-index:1; 
+    }
+.jun{position: absolute;
+    background-image:url(https://alexneo98.github.io/june.jpg);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:3250px;
+    border-radius:70px;
+   display: block;
+    left:45%;
+    z-index:1;}
+.nis{position: absolute;
+    background-image:url(https://alexneo98.github.io/nis.jpg);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:3000px;
+    border-radius:70px;
+   display: block;
+    left:75%;
+    border: 20px;
+    z-index:1;}
+.christo{position: absolute;
+    background-image:url(https://alexneo98.github.io/christo.jpg);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   top:3250px;
+    border-radius:70px;
+   display: block;
+    left:13%;
+    z-index:1;}
+
+
+p1{
+    position: relative;
+    top: 140px;
+    font-family: "Roboto", Times, sans-serif;
+    font-size: 15px;
+    color: white;
+    left: 10px;
+    
+}
+
+.dis1{
+    font-family: "Roboto", Times, sans-serif;
+    font-size: 22px;
+    position: absolute;
+    top:600px;
+    width: 600px;
+    left:900px;
+    color:white;
+}
+
+.dis2{
+    font-family: "Roboto", Times, sans-serif;
+    font-size: 22px;
+    position: absolute;
+    top:2000px;
+    width: 600px;
+    left:900px;
+    color:white;
+}
+.proto{
+    background-image:url(https://imgur.com/XNYkFin.png);
+    background-size:140px;
+    width: 140px;
+    height: 140px;
+   
+    position: relative;
+    top:2300px;
+    left:300px;
+}
+.proto p{
+    position: absolute;
+    top:-20px;
+    left: 200px;
+    width: 300px;
+    font-family: "Roboto", Times, sans-serif;
+    font-size: 20px;
+}
