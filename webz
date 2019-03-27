@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" href="makeme.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet">
+
+    <title>
+       webz 
+    </title>
+</head>
+
+<body>
+    <div class="suck"></div>
+   <div class="one">
+       <p>About Us</p>
+   </div>
+   <div class="text">
+       <h1>Prestine Papes</h1>
+   </div>
+    <div class="sec">
+        <p>Design Proccess</p>
+    </div>
+    <div class="third">
+        <p>Med-fi</p>
+     </div>
+    <div class= "forth">
+        <p>Prototype</p>
+    </div>
+      <div class= "fifth">
+        <p>The team</p>
+    </div>
+     <div class="vimeo">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/ogdG64Hs0fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+     
+    <div class="need"><p>Needfinding</p><a href="https://alexneo98.github.io/needfinding-converted.pdf">PDF</a>
+    <a href="https://alexneo98.github.io/needfinding.pptx">PPTX</a>
+    </div>
+    
+    <div class="eva"><p>Evaluation</p><a href="https://alexneo98.github.io/heuristicalex-converted.pdf">PDF</a>
+    <a href="https://alexneo98.github.io/heuristicalex-converted.pptx">PPTX</a></div>
+    
+    <div class="video"><p>Video</p><a href="https://alexneo98.github.io/concept.pdf">PDF</a>
+    <a href="https://alexneo98.github.io/concept.pptx">PPTX</a></div>
+    
+    <div class="low"><p>Low-fi</p><a href="https://alexneo98.github.io/lowfi.pdf">PDF</a>
+    <a href="https://alexneo98.github.io/lowfi.pptx">PPTX</a></div>
+    
+    <div class="med"><p>Med-fi</p><a href="https://alexneo98.github.io/medfi.pdf">PDF</a>
+    <a href="https://alexneo98.github.io/medfi.pptx">PPTX</a></div>
+    
+    <div class="high"><p>High-fi</p><a href="https://alexneo98.github.io/highfi.pdf">PDF</a>
+    <a href="https://alexneo98.github.io/highfi.pptx">PPTX</a></div>
+   
+   
+   
+    <div class="midfi">
+    <iframe src="https://marvelapp.com/b72414b/?emb=1&iosapp=false&frameless=false" width="560" height="400" allowTransparency="true" frameborder="0"></iframe></div>
+		
+         
+    <div class="sebi"><p1>Sebi St Johnston</p1></div>
+    <div class="alex"><p1>Alexandros Neofytou</p1></div>
+    <div class="christo"><p1>Christo Wilson</p1></div>
+    <div class="nis"><p1>Jounaid Ruhomaun</p1></div>	
+    <div class="jun"><p1>Nischal Malla</p1></div>
+          
+           
+   <div class= "dis1"><p>Our slogan is “Only The Finest Wallpapers”. Find here the best abstract wallpapers on the World Wide Web, upload your designs and discuss and upvote on each one. Finding wallpapers has never been so fun and interactive.</p></div>         
+             
+              
+            
+              
+    <div class= "dis2"><p>The med-fi prototype alows you to take a glipse of how the actual websystem works.</p></div>
+    <div class="proto">
+    <p>This is our finished working prototype</p><a href="https://alexneo98.github.io/links.html">link</a>
+    </div>           
+                 
+</body>
+</html>
+
